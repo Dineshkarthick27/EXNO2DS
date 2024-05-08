@@ -1,4 +1,4 @@
-# EXNO2DS
+# Exno:2-EDA Analysis using Python
 
 
 ## NAME    :  DINESH KARTHICK K J 
